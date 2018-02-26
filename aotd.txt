@@ -1,1 +1,3 @@
-
+| NR RP | Dje95 | NR RP |
+  Hello. This is a work in progress gamemode for the game "Garry's Mod" aka "Gmod"
+  This is a modified version of the gamemode "DarkRP" by Fptje.
